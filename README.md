@@ -1,13 +1,4 @@
-<div align="center" >🤝 Show your support - give a ⭐️ if you liked the content
-| Follow me @Puliczek on
- <a target="_blank" href='https://twitter.com/pulik_io'><img src='https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white'/></a>
- <a target="_blank" href='https://www.youtube.com/channel/UCaAdOBH2hnqLvEri1M7eg5Q'><img src='https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat&logo=youtube&logoColor=white'/></a>
-</div>
-
----
-
 # GitHub Achievements Academy 🏆
-
 
 ## 📝 Description
 
@@ -21,4 +12,7 @@ For everyone who wants to learn more about the GitHub platform and get these coo
 
 # Let's start
 
-Todo.
+Start here -> [https://githubachievements.com/](https://githubachievements.com/)
+
+Yeah, one day I'll open-source the website, ,ust don't have time right now :(
+
